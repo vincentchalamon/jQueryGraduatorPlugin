@@ -6,7 +6,7 @@ This jQuery plugin allows you to create a colored graduation.
 
 # How to use
 
-This plugin requires jQuery 1.8+ & jQuery UI :
+This plugin requires [jQuery 1.8+](http://jquery.com/), [jQuery UI](http://jqueryui.com/) & [jQuery color plugin](https://github.com/vincentchalamon/jQueryColorPlugin) :
 ```html
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
