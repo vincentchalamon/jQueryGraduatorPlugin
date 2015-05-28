@@ -2,7 +2,7 @@
 
 This jQuery plugin allows you to create a colored graduation.
 
-<img src="http://www.vincent-chalamon.fr/uploads/jquery-graduator.png" />
+<img src="http://www.vincent-chalamon.fr/content/images/2015/04/jquery-graduator.png" />
 
 # How to use
 
