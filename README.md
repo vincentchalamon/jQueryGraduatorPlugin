@@ -57,4 +57,4 @@ You must set following options to graduator :
 
 # Compatibility
 
-This plugin has been tested under IE7+, Safari, Firefox, Chrome & Opéra.
+This plugin has been tested under IE7+ up to IE9, Safari, Firefox, Chrome & Opéra.
